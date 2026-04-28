@@ -9,7 +9,7 @@ We propose a lightweight and efficient 3D semi-automatic interactive segmentatio
 ![Example Image1](https://github.com/appiek/BTS-SAM3D/blob/main/2020-model_comparison_bar_chart.png)
 ![Example Image1](https://github.com/appiek/BTS-SAM3D/blob/main/2021-model_comparison_bar_chart.png)
 
-##Dependencies
+## Dependencies
 * Python 3.8 or higher version
 * Pytorch 2.4.0
 * MONAI 1.5.1
@@ -22,3 +22,10 @@ We propose a lightweight and efficient 3D semi-automatic interactive segmentatio
 * opencv-python-headless 4.12.0
 * Numpy
 * Scipy
+
+## Composition of code
+1. train.py: Brain Tumor Segmentation Training Based on BTS-SAM and Progressive Prompt Training Strategy
+2. /segment_anything: model construction
+3. 
+
+## Quick Start
