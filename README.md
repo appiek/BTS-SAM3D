@@ -26,6 +26,12 @@ We propose a lightweight and efficient 3D semi-automatic interactive segmentatio
 ## Composition of code
 1. train.py: Brain Tumor Segmentation Training Based on BTS-SAM and Progressive Prompt Training Strategy
 2. /segment_anything: model construction
-3. 
+3. test.py: Implementation of brain tumor segmentation
 
 ## Quick Start
+* Testing: if you just want to validate the segmentation performance of pre-trained models, follow these steps:
+* 1:Download our code on your computer
+* 2:Download the testing data
+* 3:Download the pre-trained parameters of model
+* 4:Run 'test.py' for testiing the performance of method
+
