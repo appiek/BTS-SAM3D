@@ -31,7 +31,7 @@ We propose a lightweight and efficient 3D semi-automatic interactive segmentatio
 ## Quick Start
 * Testing: if you just want to validate the segmentation performance of pre-trained models, follow these steps:
 * 1:Download our code on your computer
-* 2:Download the testing data
-* 3:Download the pre-trained parameters of model
+* 2:Download the testing data[Link](https://pan.baidu.com/s/1S1w8BmS-Oc0Gsz7r0ZspMg?pwd=2uta)and unzip this file in your computer
+* 3:Download the pre-trained parameters of model[Link](https://pan.baidu.com/s/1S1w8BmS-Oc0Gsz7r0ZspMg?pwd=2uta)and unzip this file into the path './workdir/'
 * 4:Run 'test.py' for testiing the performance of method
 
